@@ -19,6 +19,8 @@ public class ClientOnlyProxy extends CommonProxy
   public void preInit()
   {
     super.preInit();
+
+      tomtomcantnot.quarry.StartupClientOnly.preInitClientOnly();
     /*minecraftbyexample.mbe70_configuration.StartupClientOnly.preInitClientOnly();
     
     minecraftbyexample.mbe01_block_simple.StartupClientOnly.preInitClientOnly();
@@ -52,6 +54,8 @@ public class ClientOnlyProxy extends CommonProxy
   public void init()
   {
     super.init();
+
+      tomtomcantnot.quarry.StartupClientOnly.initClientOnly();
     /*minecraftbyexample.mbe70_configuration.StartupClientOnly.initClientOnly();
     
     minecraftbyexample.mbe01_block_simple.StartupClientOnly.initClientOnly();
@@ -84,6 +88,8 @@ public class ClientOnlyProxy extends CommonProxy
   public void postInit()
   {
     super.postInit();
+
+      tomtomcantnot.quarry.StartupClientOnly.postInitClientOnly();
     /*minecraftbyexample.mbe70_configuration.StartupClientOnly.postInitClientOnly();
 
     minecraftbyexample.mbe01_block_simple.StartupClientOnly.postInitClientOnly();

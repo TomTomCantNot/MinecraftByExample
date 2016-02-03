@@ -14,6 +14,7 @@ public abstract class CommonProxy {
    */
   public void preInit()
   {
+      tomtomcantnot.quarry.StartupCommon.preInitCommon();
 	/*   //read config first
 	  minecraftbyexample.mbe70_configuration.StartupCommon.preInitCommon();
 
@@ -47,6 +48,7 @@ public abstract class CommonProxy {
    */
   public void init()
   {
+      tomtomcantnot.quarry.StartupCommon.initCommon();
 	/*minecraftbyexample.mbe70_configuration.StartupCommon.initCommon();
 	  
     minecraftbyexample.mbe01_block_simple.StartupCommon.initCommon();
@@ -78,6 +80,7 @@ public abstract class CommonProxy {
    */
   public void postInit()
   {
+      tomtomcantnot.quarry.StartupCommon.postInitCommon();
 	/*minecraftbyexample.mbe70_configuration.StartupCommon.postInitCommon();
 	  
     minecraftbyexample.mbe01_block_simple.StartupCommon.postInitCommon();
