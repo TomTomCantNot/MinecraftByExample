@@ -1,13 +1,13 @@
 [
 {
-  "modid": "minecraftbyexample",
-  "name": "Minecraft By Example (mcmod_info)",
-  "description": "Minecraft By Example (mcmod_info)",
+  "modid": "tomtomcantnot",
+  "name": "TomTomCantNot (mcmod_info)",
+  "description": "TomTomCantNot (mcmod_info)",
   "version": "1.0_mcmod_info",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["TGG and others"],
+  "authorList": ["TomTomCantNot"],
   "credits": "The Forge, MCP, and FML guys, for making it possible",
   "logoFile": "",
   "screenshots": [],

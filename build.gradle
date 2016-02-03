@@ -18,8 +18,8 @@ buildscript {
 apply plugin: 'forge'
 
 version = "1.0_build_gradle"
-group= "minecraftbyexample_group" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "minecraftbyexample_build_gradle"
+group= "tomtomcantnot_group" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = "tomtomcantnot_build_gradle"
 
 minecraft {
     version = "1.8-11.14.3.1450" //"1.8-11.14.0.1285-1.8"  // 1.8-11.14.0.1252-1.8
